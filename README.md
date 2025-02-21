@@ -29,4 +29,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utk-2506&" alt="utk2506" /></p>
 <div>
-![](https://leetcard.jacoblin.cool/lapor?ext=heatmap)</div>
+[![Leetcode Stats](https://leetcard.jacoblin.cool/utk2506)](https://leetcode.com/utk2506)</div>
