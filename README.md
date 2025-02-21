@@ -29,5 +29,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utk-2506&" alt="utk2506" /></p>
 <div>
-  ![Leetcode Stats](https://leetcard.jacoblin.cool/85ScsljeHd?ext=heatmap)
+  https://leetcard.jacoblin.cool/85ScsljeHd?ext=heatmap
 </div>
