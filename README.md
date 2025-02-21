@@ -27,5 +27,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utk-2506&show_icons=true&locale=en" alt="utk-2506" /></p>
 
-![](https://leetcard.jacoblin.cool/utk2506?width=500&height=500)
+![](https://leetcard.jacoblin.cool/utk2506?width=200&height=200)
 
