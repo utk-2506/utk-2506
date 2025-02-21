@@ -28,5 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utk-2506&show_icons=true&locale=en" alt="utk-2506" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utk-2506&" alt="utk2506" /></p>
-<div>
-[![Leetcode Stats](https://leetcard.jacoblin.cool/utk2506)](https://leetcode.com/utk2506)</div>
+85ScsljeHd
